@@ -1,0 +1,9 @@
+<div class="audio-container" id="audioContainer">
+    <!-- Cole o link do Seu áudio Abaixo-->
+    <div tabindex="0" class="plyr plyr--full-ui plyr--audio plyr--html5 blue plyr--is-touch plyr--paused" style="--range-thumb-background: #3db8ee;"><div class="plyr__controls"><button class="plyr__controls__item plyr__control" type="button" data-plyr="play" aria-label="Play"><svg class="icon--pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-pause"></use></svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false"><use xlink:href="#plyr-play"></use></svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button><div class="plyr__controls__item plyr__progress__container"><div class="plyr__progress"><input data-plyr="seek" type="range" min="0" max="100" step="0.01" value="0" autocomplete="off" role="slider" aria-label="Seek" aria-valuemin="0" aria-valuemax="12.094694" aria-valuenow="8.753945" id="plyr-seek-2904" aria-valuetext="00:08 of 00:12" style="--value: 72.38%;"><progress class="plyr__progress__buffer" min="0" max="100" value="100" role="progressbar" aria-hidden="true">% buffered</progress><span class="plyr__tooltip">00:00</span></div></div><div class="plyr__controls__item plyr__time--current plyr__time hide" aria-label="Current time">00:08</div><div class="plyr__controls__item plyr__time--duration plyr__time" aria-label="Duration">00:12</div></div><audio class="plyr" src="https://s3.fr-par.scw.cloud/typebot/public/typebots/ni6q06d0tv7p96abwdf9j73f/blocks/cntqkf8o96gfu3tr0wfizbxo?v=1690844841603" autoplay=""></audio></div>
+    <!-- Cole o link da Sua imagem Abaixo-->
+    <img src="https://i.postimg.cc/sgDRsz5F/2863304631.png" alt="Imagem">
+    <div class="microphone-icon blue">
+      <i class="fas fa-microphone"></i>
+    </div>
+  </div>
